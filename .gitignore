@@ -6,3 +6,9 @@ data/
 
 #Visual Studio Code Files
 .vscode/
+
+#virtual Environment Files
+.venv/
+
+__pycache__/
+*.pyc
