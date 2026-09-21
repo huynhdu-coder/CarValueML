@@ -1,0 +1,8 @@
+#Dataset Files
+data/
+
+#environment Files
+.env
+
+#Visual Studio Code Files
+.vscode/
