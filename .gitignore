@@ -1,8 +1,8 @@
-#Dataset Files
-data/
 
 #environment Files
 .env
+
+.csv
 
 #Visual Studio Code Files
 .vscode/
